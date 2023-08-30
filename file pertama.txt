@@ -1,0 +1,7 @@
+Rincian Meteri FSW - MSIB 5
+1. Web Desain
+UI/UX
+GIT/GITHUB
+MySQL
+PHP
+Laravel
